@@ -101,6 +101,15 @@
         "target": "chrome.app",
         "preset": "iPhone 7"
       }
-    }
+    },
+    "chromeFlags": [
+      "--headless=new",
+      "--no-sandbox",
+      "--disable-gpu",
+      "--disable-dev-shm-usage",
+      "--hide-scrollbars"
+    ],
+    "chromeRetries": 3,
+    "chromeTolerance": 2.3
   }
 }
