@@ -22,6 +22,7 @@ module.exports = {
         'react',
         '@typescript-eslint',
         'i18next',
+        'storybook',
     ],
     rules: {
         'react/jsx-indent': [2, 4],
