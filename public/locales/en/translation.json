@@ -1,6 +1,9 @@
 {
   "text": "Test",
-  "language": "en",
+  "language": "English",
+  "short-lang": "EN",
+  "main-link": "Main page",
+  "about-link": "About",
   "pageNotFound": "Page was not found",
   "throw error": "Throw Error",
   "Unexpected error": "Unexpected Error",

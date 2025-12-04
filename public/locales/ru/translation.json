@@ -1,6 +1,9 @@
 {
   "text": "Тестовый пример",
-  "language": "ru",
+  "language": "Русский",
+  "short-lang": "RU",
+  "main-link": "Главная",
+  "about-link": "О нас",
   "pageNotFound": "Страница не найдена",
   "throw error": "Вызвать ошибку",
   "Unexpected error": "Произошла непредвиденная ошибка",
